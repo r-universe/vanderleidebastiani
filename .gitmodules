@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PCPS"]
 	path = PCPS
 	url = https://github.com/vanderleidebastiani/pcps
-	shallow = true
-	registered = true
 [submodule "SYNCSA"]
 	path = SYNCSA
 	url = https://github.com/vanderleidebastiani/syncsa
-	shallow = true
-	registered = true
